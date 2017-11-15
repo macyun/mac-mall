@@ -1,2 +1,4 @@
-cats = require('./cats.js');
-console.log(cats);
+var $$ = require('jquery');
+
+$$('body').html(6666666);
+console.log('index');
